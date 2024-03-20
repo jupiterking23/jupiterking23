@@ -8,6 +8,13 @@ Escribir la historia...
 
 Hacer el cierre de la presentacion, invitando a contactar 
 
+=======
+## technologies
+
+    -html
+    -css
+    -js
 # Skilss
 
-- coaching
+- coaching    
+
